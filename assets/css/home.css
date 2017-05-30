@@ -1,0 +1,239 @@
+@font-face{
+	font-family:"myfont" ;
+	src:url('../fonts/MarketingScript.ttf') format('truetype');
+}
+@font-face{
+	font-family: "font1";
+	src:url('../fonts/HIGHERUP.TTF')format('truetype');
+}
+img{
+	padding-left: 70px;
+}
+#container{
+	margin-bottom: -15px;
+}
+.btn-group{
+	border:1px solid white;
+	color: black;
+	background-color: white;
+}
+ul li{
+    width:150px;
+	margin-top: 8px;
+	font-weight: 19px;
+	text-align: center;
+	display: inline-block;
+}
+#image{
+	border:8px  solid white;
+	padding-left: 0px;
+}
+#image:hover{
+    transform : rotate(-5deg);
+    height:410px;
+    width: 510px;
+}
+a:link,a:visited{
+    color: black;
+	background-color: white;
+	text-align: center;
+	text-decoration:none !important;
+	padding: 5px 13px;
+	border-radius: 6px;
+	font-weight: bold;
+}
+a:hover,a:active{
+    background-color:#d8d4d2;
+    text-decoration: none;
+    color: #ea6512 !important;
+}
+.well{
+	margin-top: 15px;
+	margin-left: 0;
+	width: 370px;
+	height:360px;
+	padding: 20px;
+	opacity: 0.8;
+	padding-top: 20px;
+}
+.well h3{
+	margin-top: 0px;
+	font-family:"myfont";
+	font-size: 30px;
+}
+button{
+	width:230px;
+	height: 70px;
+	font-size: 20px !important;
+	font-weight: bold !important;
+	font-family: "font1" !important;
+	text-align: center;
+	background-color: #d8dbd0;
+	border-radius: 13px 0px 13px 0px;
+	opacity: 0.5;
+}
+button:hover{
+	background-color: #d8d4d2;
+	color: #ea6512;
+}
+#border2{
+    opacity: 0.7;
+    font-size: 33px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+#border3{
+    opacity: 0.7;
+    font-size: 33px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+#border4{
+    opacity: 0.7;
+    font-size: 33px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+#border3 #number{
+	padding-left: 98px;
+}
+#border4 #number{
+	padding-left: 85px;
+}
+#on{
+	font-family: "myfont" !important;
+	font-size: 23px;
+	color: black;
+	padding-left:5px;
+	opacity: 0.7;
+}
+#divider{
+	height:4px;
+	margin: 0;
+	padding: 0;
+}
+#credentials{
+	width: 100%;
+	height: 40px;
+    border-radius: 4px 4px 4px 4px;
+	margin-top: 0px;
+}
+#credentials:hover{
+	border: 3px solid #db5a04;
+}
+#SUSCRIBE{
+	float: right;
+	font-weight: bold;
+	font-size: 15px;
+	width:110px;
+	height:40px;
+	border-radius:10px;
+}
+#SUSCRIBE:hover{
+	color:#ea6512;
+    background-color: #d8d4d2;
+
+}
+#number{
+	padding-left: 120px;
+	float: right;
+	font-size: 45px;
+	font-family: "font1"!important;
+    color: #db5a04;
+}
+span{
+	display: inline-block;
+	margin:0;
+	padding:0;
+}
+#latest{
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0px;
+	padding: 0px;
+	display: inline;
+}
+#latest1{
+	font-size: 10px;
+	font-weight: bold;
+}
+.text-justify{
+	margin-top: 10px;
+	line-height: 6px;
+}
+.col-md-2{
+	margin:0;
+}
+#block{
+	padding: 10px;
+}
+#block:hover{
+    background-color: #d8d4d2;
+}
+#name{
+	font-size: 15px;
+	color: #db5a04;
+	font-weight:bold;
+}
+.clearfix{
+	overflow:auto;
+}
+.img2{
+	float:left;
+	margin-top:20px;
+	padding:0;
+	max-width:20 !important;
+	max-height:67 !important;
+}
+#footercontent1{
+	margin-top: 10px;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 20px;
+	padding-top:10px;
+}
+#footercontent{
+	margin-top: 20px;
+	line-height: 15px;
+	font-size: 16px;
+	padding-left: 50px;
+}
+.img1{
+	margin-left: 0px;
+	margin-top: 30px;
+	float:left;
+	width:300px;
+	height:140px;
+}
+#text{
+	padding-top: 4px;
+	font-size: 15px;
+	line-height: 7px;
+	text-align: left;
+	margin-top: 10px;
+}
+#panel{
+	opacity: 0.6;
+	margin-bottom: 0px;
+	background-image: url("../images/bottle-mask.jpg");
+}
+#well{
+	background-color: white;
+	border:4px solid #d8d4d2;
+	opacity: 0.7;
+}
+#newsitem{
+	opacity: 0.5;
+}
+#newsitem:hover
+{
+	opacity: 1;
+}
+.newsitem1
+{
+	margin-top: 15px!important;
+}
+#logo:hover
+{
+	opacity: 0.7;
+}
