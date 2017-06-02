@@ -73,7 +73,7 @@ button{
 	opacity: 0.5;
 }
 #secondbutton{
-	padding-left: 30px;
+	margin-left: 40px;
 }
 button:hover{
 	background-color: #d8d4d2;
