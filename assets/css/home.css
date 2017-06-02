@@ -72,6 +72,9 @@ button{
 	border-radius: 13px 0px 13px 0px;
 	opacity: 0.5;
 }
+#secondbutton{
+	padding-left: 30px;
+}
 button:hover{
 	background-color: #d8d4d2;
 	color: #ea6512;
@@ -135,7 +138,7 @@ button:hover{
 
 }
 #number{
-	padding-left: 120px;
+	padding-left: 240px;
 	float: right;
 	font-size: 45px;
 	font-family: "font1"!important;
